@@ -9,4 +9,3 @@ Werkzeug
 numpy
 matplotlib
 pandas
-nltk
