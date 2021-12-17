@@ -8,6 +8,5 @@ Werkzeug
 numpy
 pandas
 nltk
-pickle
 sklearn
 
